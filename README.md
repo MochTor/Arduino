@@ -9,7 +9,7 @@ Arduino was born to teach **Interaction Design**, a design discipline that puts 
 
 The specific field of Interaction Design involved with Arduino is physical computing (or _Physical Interaction Design_).
 
-**Physical computing** uses electronics to prototype new objects for designers and artists. It involves the design of interactive objects that can communicate with humans by using sensors and actuators controlled by a behaviour implemented as software running inside a microcontroller (a small computer on a single chip).
+**Physical computing** uses electronics to prototype new objects for designers and artists. It involves the design of interactive objects that can communicate with humans by using sensors and actuators controlled by a behaviour implemented as software running inside a microcontroller.
 
 ##The Arduino Way (or, as I learned, the beauty of Arduino)
 The Arduino philosophy is based on making designs rather than talking about them. It is a constant search for faster and more powerful ways to build better prototypes. 
@@ -26,4 +26,4 @@ Arduino is based on several principles:
 * Circuit Bending: circuit benders excel in their ability to create the wildest devices by tinkering away with technology without necessarily understanding what they are doing on the theoretical side. 
 * Keyboard Hacks: try to understand a little bit deeper how a object works to modify it and make it a little bit better.
 * Hacking toys
-* Collaboration: collaboration between users is one of the key principles in the Arduino world—through the forum at www.arduino.cc, people from different parts of the world help each other learn about the platform. The Arduino team encourages people to collaborate at a local level as well by helping them set up users’ groups in every city they visit. 
+* Collaboration: collaboration between users is one of the key principles in the Arduino world. 
